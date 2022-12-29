@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\perfect number\bin\Debug\perfect number.exe.config
+C:\Users\Administrator\Desktop\perfect number\bin\Debug\perfect number.exe
+C:\Users\Administrator\Desktop\perfect number\bin\Debug\perfect number.pdb
+C:\Users\Administrator\Desktop\perfect number\obj\Debug\perfect number.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\perfect number\obj\Debug\perfect number.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\perfect number\obj\Debug\perfect number.exe
+C:\Users\Administrator\Desktop\perfect number\obj\Debug\perfect number.pdb
